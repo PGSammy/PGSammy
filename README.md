@@ -55,7 +55,7 @@
 ![PGSammy GitHub Stats](https://github-readme-stats.vercel.app/api?username=PGSammy&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
-[![Velog](https://img.shields.io/badge/Velog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]([https://velog.io/@pg_sammy/posts])
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@pg_sammy)
 
 ### 📜 SOLVED.AC
 [![PGSammy's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gaemanssi2)](https://solved.ac/profile/gaemanssi2)

@@ -1,4 +1,4 @@
-# 안녕하세요 ! MLOps/Backend 개발자를 꿈꾸는 개발자입니다 👋 @PGSammy
+# 안녕하세요 ! MLOps/Backend 개발자를 꿈꾸는 개발자입니다 👋
 
 ## 🚀 About Me
 - MLOps 및 딥러닝, Backend에 관심이 많은 엔지니어입니다.
@@ -55,7 +55,7 @@
 ![PGSammy GitHub Stats](https://github-readme-stats.vercel.app/api?username=PGSammy&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]([your-blog-url](https://velog.io/@pg_sammy/posts))
+[![Velog](https://img.shields.io/badge/Velog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]([https://velog.io/@pg_sammy/posts])
 
 ### 📜 SOLVED.AC
 [![PGSammy's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gaemanssi2)](https://solved.ac/profile/gaemanssi2)

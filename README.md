@@ -45,6 +45,8 @@
 ## 🏆 Projects
 | 날짜 | 프로젝트명 | 설명 | 기술 스택 | 링크 |
 |------|------------|------|------------|------|
+| 2025-01 | SummarAI | 논문 요약 및 논문 기반 학습 가능한 챗봇 | FastAPI, Python, NCP, Clova X, Prompt Engineering | [Git Link] (https://github.com/boostcampaitech7/level4-cv-finalproject-hackathon-cv-12-lv3) |
+| 2024-12 | SumClip | 바쁜 현대인들을 위한 유튜브 영상 Text 요약 프로그램 | FastAPI, Python | [Git Link] (https://github.com/uzlnee/SumClip) |
 | 2024-11 | Semantic Segmentation | Handbone X-Ray Segmentation Task | PyTorch, Python, NotionAPI | [Git Link](https://github.com/boostcampaitech7/level2-cv-semanticsegmentation-cv-12-lv3.git) |
 | 2024-10 | Data-Centric CV | Multi Language Receipt OCR | PyTorch, Python, cvat | [Git Link](https://github.com/boostcampaitech7/level2-cv-datacentric-cv-24.git) |
 | 2024-10 | Object Detection | Trash Detection Task | PyTorch, Python, Redis, RabbitMQ | [Git Link](https://github.com/boostcampaitech7/level2-objectdetection-cv-24.git) |
